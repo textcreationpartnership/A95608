@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Barnstable agreed to be surrendred to Sr. Thomas Fairfax: vvith all the ordnance, armes, and ammunition, and upon what tearmes: vvith a copy of seven articles (of the chiefe of those) for surrendring of Exeter; and the manner of the armyes march towards Oxford. These being true copies of letters examined, and printed according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95608</idno>
+            <idno type="STC">Wing T61</idno>
+            <idno type="STC">Thomason E333_13</idno>
+            <idno type="STC">ESTC R200753</idno>
+            <idno type="EEBO-CITATION">99861413</idno>
+            <idno type="PROQUEST">99861413</idno>
+            <idno type="VID">159651</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159651)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E333[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Barnstable agreed to be surrendred to Sr. Thomas Fairfax: vvith all the ordnance, armes, and ammunition, and upon what tearmes: vvith a copy of seven articles (of the chiefe of those) for surrendring of Exeter; and the manner of the armyes march towards Oxford. These being true copies of letters examined, and printed according to order of Parliament.</title>
+                  <author>T. T.</author>
+                  <author>N. T.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Walbancke at Grays-Inne-Gate,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>16. April 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of the "Articles of agreement" and two letters, signed T.T. and N.T. respectively.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Barnstaple (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159651:1" rendition="simple:additions"/>
+            <p>BARNSTABLE Agreed to be ſurrendred to Sr. <hi>THOMAS FAIRFAX:</hi>
+            </p>
+            <p>With all the Ordnance, Armes, and Ammunition, and upon what tearmes:</p>
+            <p>VVith a Copy of ſeven Articles (of the chiefe of thoſe) for ſurrendring of <hi>EXETER;</hi>
+            </p>
+            <p>And the manner of the Armyes march towards <hi>OXFORD.</hi>
+            </p>
+            <p>Theſe being true Copies of Letters examined, and Printed according to Order of <hi>Parliament.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Matthew Walbancke</hi> at <hi>Grayſ-Inne</hi>-Gate, 16. <hi>April</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159651:2"/>
+            <pb n="3" facs="tcp:159651:2"/>
+            <opener>
+               <salute>Honoured Sir;</salute>
+            </opener>
+            <p>ON Friday the 10th of this inſtant <hi>Aprill,</hi> the Generall Himſelfe, with one or two more of the Generalls Of<g ref="char:EOLhyphen"/>ficers, with Maſter <hi>Ruſhworth</hi> (his Excellencies Secretary) went from <hi>Tiverton</hi> to <hi>Barnstable,</hi> to ſend in a ſummons to Sir <hi>Allus Aſhley</hi> the Governour, for the delivering up of the Caſtle, and Fort, and are to returne to <hi>Call<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mb-Iohn</hi> to morrow, being the 12th inſtant, that ſo they may bee on Munday at <hi>Exeter,</hi> to ſee the performance of the Ar<g ref="char:EOLhyphen"/>ticles, and after that wee have ſetled the City, wee ſhall march towards <hi>Oxford,</hi> which I here will bee about Wed<g ref="char:EOLhyphen"/>neſday next (as is intended) or Thurſday at furtheſt, but the moſt part of the foote are this day on their march for <hi>Oxford,</hi> Mount <hi>Raedford,</hi> with <hi>Hunkſes</hi> Fort in Saint <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> pariſh was delivered up to the Generall according to agreement, I have here ſent you the Copy of the ſeven firſt Articles; and by the next Meſſenger, I will ſend you a perfect Copy,</p>
+            <closer>
+               <dateline>From <hi>Teverton</hi> 
+                  <date>
+                     <hi>April</hi> 11. 1646.</date>
+               </dateline>
+               <signed>Your ſervant, <hi>T.T.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="articles">
+            <pb n="4" facs="tcp:159651:3"/>
+            <head>Articles of Agreement concluded upon by <hi>Thomas Ham<g ref="char:EOLhyphen"/>mond</hi> Lieutenant Generall of the Ordnance, Colo. Sir <hi>Flardreſſe Waller.</hi> Col. <hi>Edward Harley,</hi> Col. <hi>Lambert</hi> Commiſſary Generall <hi>Stan,</hi> and Major Watſon Scout Maſter Generall, Commiſsioners on the behalfe of the Right Honourable His Excellency, Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> Generall of the Parliaments forces on the one party, And Sir <hi>Henry Berkley,</hi> Sir <hi>George Par<g ref="char:EOLhyphen"/>ry,</hi> Col. <hi>Aſhburnham,</hi> Col. <hi>Godolphin,</hi> Cap. <hi>Fitz Ge<g ref="char:EOLhyphen"/>rate,</hi> Mr. <hi>Iohn Were,</hi> Mr. <hi>Robert Walker,</hi> and Mr. <hi>Thomas Knot,</hi> Commiſsioners on the behalfe of Sir <hi>Iohn Berk<g ref="char:EOLhyphen"/>ley</hi> Knight, Governour of the City of <hi>Exeter</hi> on the other party, concerning the Rendition of the ſaid Ci<g ref="char:EOLhyphen"/>tie, and Garriſon.</head>
+            <p n="1">
+               <hi>1.</hi> THat that the City and Garriſon of <hi>EXETER</hi> toge<g ref="char:EOLhyphen"/>ther with the Castle, and all the Forts, and Mounts, places of defence, of or belonging to the ſame with all Ordnance, Armes, and Ammunition, Proviſions, and furniture of Warre, belonging to the Garriſon (excepting, what ſhall be excepted in the inſuing Articles) ſhall be delivered unto Sir <hi>Thomas Fairfax</hi> Generall of the Parlia<g ref="char:EOLhyphen"/>ments forces, or to any whom he ſhall appoint to receive them for the uſe of the Parliament, on the <hi>13.</hi> of Aprill <hi>1646.</hi>
+            </p>
+            <p n="2">
+               <hi>2.</hi> That if any Officer or Souldier, or any perſon (included in theſe Articles) wrong, or plunder, in perſon or goods (in their march away, or before) any Citizen, or Country man, or any perſons whatſoe<g ref="char:EOLhyphen"/>ver, ſhal (as far as he is able) give ſatisfaction to the perſons ſo inju<g ref="char:EOLhyphen"/>red at the judgement of his Excellency Sir <hi>Thomas Fairfax.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> That if any Officer, Souldier, or any perſon [included in theſe Articles] ſhall after the date of this Treaty, wilfully break, deface, ſpoyle or imbeſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e any Armes or other Proviſions of Warre whatſoever
+<pb n="5" facs="tcp:159651:3"/> by the precedent Articles to be ſurrendred as aforeſaid, ſhall looſe the benefit of the enſuing Articles.</p>
+            <p n="4">
+               <hi>4.</hi> That the Princes, and Governeſſe, with his houſehould, ſhall have full Liberty to paſſe with their plate, monyes and goods with<g ref="char:EOLhyphen"/>in <hi>20.</hi> dayes after the concluſion of this Treaty (when they ſhall de<g ref="char:EOLhyphen"/>ſire) to any place within the Counties of <hi>England</hi> or Dominion of <hi>Wales,</hi> at the Election of the Governeſſe, and there to remaine untill his Majeſties pleaſure be further known, touching her ſettling, and the Governeſſe ſhall have liberty to ſend to the King to know his plea<g ref="char:EOLhyphen"/>ſure herein, and accordingly to diſpoſe of her highneſſe within the a<g ref="char:EOLhyphen"/>foreſaid limitation of places, and that fit and convenient Carriages be provided for their paſſage at reaſonable rates.</p>
+            <p n="5">
+               <hi>5.</hi> That the Cathedrall Church, nor any other Church within the City ſhall be defaced, or any thing belonging thereunto ſpoyled or ta<g ref="char:EOLhyphen"/>ken away, by any Souldier or perſon of either ſide whatſoever.</p>
+            <p n="6">
+               <hi>6.</hi> That the Governour, together with all Lords Clergie men, Gentlemen, Chaplaines, Officers<g ref="char:punc">▪</g> Troopers, and Common Souldiers (that will) ſhall march out of the City, with their Horſes, full Armes bagge, and baggage and their goods, Colours flying, Drums beating, Matches lighted, with ſufficient Convoyes, to Oxford, Pendennis, or the mount in Cornwall, at their ſeverall Elections, and in caſe thoſe Gariſons ſhall refuſe to receive the Common Souldiers, they ſhall de<g ref="char:EOLhyphen"/>liver up their Armes to the Convoy, and have Paſſes to returne to their ſeverall homes; Provided that all the Troopers, and Common Souldiers, which march not into the Gariſons aforeſaid, ſhall have libertie from both parties to goe to their owne homes, and alſo all thoſe that ſhall ſo do ſhall march away without their Arms, enjoying their bagge and baggage.</p>
+            <p n="7">
+               <hi>7.</hi> That all thoſe that ſhall march into the Gariſons aforeſaid, ſhall have free quarter in their march, and ſhall not bee obliged to march above <hi>10.</hi> myles a day, and that ſuch other Souldiers as are inhabitants in the City ſhall have liberty to ſtay, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:159651:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON friday night the Generalls Excellency came before Barnſtable, where he ſpent not much time before he treated about the ſurrender there<g ref="char:EOLhyphen"/>of, which held diſpute till Sunday, and then the Ge<g ref="char:EOLhyphen"/>nerall being reſolved not to looſe time, ſent in a ſummons to Sir <hi>Allen Apſley</hi> the Governour, with a Copy of the Articles whereupon Exeter was ſur<g ref="char:EOLhyphen"/>rendred, requiring the ſpeedy rendition of Barn<g ref="char:EOLhyphen"/>ſtable on the ſame tearmes, or elſe to let them know that he would admit no more delayes, but forth<g ref="char:EOLhyphen"/>with fall on, which he was reſolved to do, if the Go<g ref="char:EOLhyphen"/>vernour had not ſent an Anſwer of ſatisfaction. But there was an agreement made that night, The Articles are the ſame that <hi>Exeter</hi> was, only ſome<g ref="char:EOLhyphen"/>things (as of the Cathedrall, and concerning the Princes; and the reſt not uſefull in that) were omit<g ref="char:EOLhyphen"/>ted, other alterations not much. As <hi>Exeter</hi> ſurenders this day (for the entry into which place our men are now drawing up) ſo <hi>Barnſtable</hi> ſurrenders to
+<pb n="7" facs="tcp:159651:4"/> morrow, they are to deliver up the Towne and Caſtle with all therein according as is expreſt in the aforeſaid <hi>Articles,</hi> and to remaine in the fort only, and after eight dayes, they are to ſurrender the fort alſo, and for performance of theſe articles, they are to give hoſtages immediatly, any two, whomſoever the Generalls Excellency ſhall make choyce of the Governour, and Deputy Governour only ex<g ref="char:EOLhyphen"/>cepted, and they are to have liberty to lend to <hi>Oxford,</hi> to know His Maieſties pleaſure, and have an anſwer if it may bee within the eight dayes, for they are to remain there no longer in the Fort, and for thoſe who are to march away when they doe goe, I believe they will not much exceed one hundred, I can aſſure you that their hearts are very low, though they have not hearts to ſee the hand that makes them ſo; The Generall is returning back to take poſſeſsion of <hi>Exeter</hi> full of laborious action, little reſt day nor night; waſting his very ſpirits to haſten the worke, that the King<g ref="char:EOLhyphen"/>dome may bee ſetled, depriving himſelfe even of neceſſary refreſhments, that ſo no opportunity may be loſt, I preſume that by that time theſe come to your hands, that the Van of our Army will bee a good way in Dorſetſhire, The Generall intends
+<pb n="8" facs="tcp:159651:5"/> himſelfe to haſten after with the Army, By the next I ſuppoſe that I ſhall be able to give you a Liſt of the Ordnance, Armes and Ammunition in <hi>Exe<g ref="char:EOLhyphen"/>ter,</hi> till when I reſt, and ever remaine,</p>
+            <closer>
+               <dateline>
+                  <hi>Tiverton</hi> 
+                  <date>13. of <hi>April</hi> 1646.</date>
+               </dateline>
+               <signed>Your humble Servant, <hi>N. T.</hi>
+               </signed>
+            </closer>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
